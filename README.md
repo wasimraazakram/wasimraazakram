@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wasimraazakram
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c/c++ and web dev
+- 🌱 I’m currently learning c++ and web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wasimraazakram@gmail.com
 
